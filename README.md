@@ -1,8 +1,7 @@
 # Olympic World Records Holder Database
 
-- <img align="middle" alt="ERDs" src="https://user-images.githubusercontent.com/61334264/131787558-a59c4ab6-d379-43d5-a19c-e32b321002e9.png" /> ERDs
+![ERDs](https://user-images.githubusercontent.com/61334264/131788452-ac3a8886-ea62-49eb-baee-f507ae790f2e.png)
 
-![ERDs](https://user-images.githubusercontent.com/61334264/131787558-a59c4ab6-d379-43d5-a19c-e32b321002e9.png)
 
 > MySQL Project.
 
