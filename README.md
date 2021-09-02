@@ -1,6 +1,6 @@
-# Olympic World Records Holder
+# Olympic World Records Holder Database
 
-![Query4](https://user-images.githubusercontent.com/61334264/131786623-f937c38c-ab49-4fd3-a1fb-e649892cbf35.jpg)
+![ERDs](https://user-images.githubusercontent.com/61334264/131787558-a59c4ab6-d379-43d5-a19c-e32b321002e9.png)
 
 > MySQL Project.
 
